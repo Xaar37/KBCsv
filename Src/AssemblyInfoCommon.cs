@@ -10,7 +10,7 @@ using System.Resources;
 [assembly: AssemblyProduct("KBCsv")]
 [assembly: AssemblyVersion("5.0.0.0")]
 [assembly: AssemblyFileVersion("5.0.0.0")]
-[assembly: AssemblyInformationalVersion("5.0.0")]
+[assembly: AssemblyInformationalVersion("1.0.0")]
 [assembly: AssemblyCopyright("© Copyright. Kent Boogaart.")]
 [assembly: AssemblyConfiguration("Release")]
 
